@@ -23,3 +23,5 @@ Clone the repo and install dependencies:
 git clone https://github.com/yourusername/genai-chatbot-gradio.git
 cd genai-chatbot-gradio
 pip install -r requirements.txt
+
+(assets/demo.png)
