@@ -25,3 +25,5 @@ cd genai-chatbot-gradio
 pip install -r requirements.txt
 
 (assets/demo.png)
+
+![Chatbot Screenshot](assets/Screenshot 2025-09-19 160342.png)
