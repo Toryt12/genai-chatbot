@@ -24,6 +24,14 @@ git clone https://github.com/yourusername/genai-chatbot-gradio.git
 cd genai-chatbot-gradio
 pip install -r requirements.txt
 
+
+
+(assets/demo.png)
+
+git clone https://github.com/yourusername/genai-chatbot-gradio.git
+cd genai-chatbot-gradio
+pip install -r requirements.txt
+
 (assets/demo.png)
 
 ![Chatbot Screenshot](assets/Screenshot 2025-09-19 160342.png)
