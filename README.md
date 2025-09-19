@@ -15,6 +15,13 @@ A conversational AI chatbot built using Hugging Face Transformers and deployed w
 - Gradio
 - Torch
 
+(assets/demo.png)
+
+![Chatbot Screenshot](assets/Screenshot 2025-09-19 160342.png)
+
+
+
+
 ## 📦 Installation
 
 Clone the repo and install dependencies:
@@ -26,9 +33,3 @@ pip install -r requirements.txt
 
 
 
-
-
-
-(assets/demo.png)
-
-![Chatbot Screenshot](assets/Screenshot 2025-09-19 160342.png)
